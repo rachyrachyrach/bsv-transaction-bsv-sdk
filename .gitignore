@@ -1,0 +1,10 @@
+#no virtual environment
+.venv
+*__pycache__*
+db.sqlite3
+*DS_Store*
+Pipfile*
+*.swp
+.coverage
+settings.json
+backup.sql 
