@@ -55,7 +55,7 @@ op_return.py is a work in progress to add script into the op_return.
 ***
 
 
-[![In action](https://img.youtube.com/vi/6G97nsB4xqU/maxresdefault.jpg)](https://youtu.be/6G97nsB4xqU))
+[![In action](https://img.youtube.com/vi/6G97nsB4xqU/maxresdefault.jpg)](https://youtu.be/6G97nsB4xqU)
 
 
 ***
