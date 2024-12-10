@@ -2,7 +2,7 @@
 
 ![bsv dragon](/docs/SV_dragon_cmyk.gif)
 ***
-Python script to create BSV transactions, check utxos and broadcast. BSV to a wallet. Supports Testnet and Mainnet.
+Python script to create BSV transactions, check utxos and broadcast BSV to a wallet. Supports Testnet and Mainnet.
 
 Used [BSV Blockchain.org Python Guide](https://docs.bsvblockchain.org/guides/sdks/py)
 
