@@ -5,7 +5,6 @@ from bsv import PrivateKey, P2PKH, Transaction, TransactionInput, TransactionOut
 from bsv.script.script import ScriptChunk
 
 
-
 ## Location of library /Users/rachael/github/4chain-bsv-sdk/.venv/lib/python3.9/site-packages/bsv/script/script.py
 # Environment variables for private key and recipient address
 PRIVATE_KEY = os.environ.get('PRIVATE_KEY')  # Set this using: export PRIVATE_KEY="your-private-key"
@@ -88,7 +87,7 @@ async def create_and_broadcast_transaction(utxo):
 
     # Create the OP_RETURN script with the message
     print("Creating OP_RETURN script.")
-    op_return_script = create_op_return_script("Rae was here")
+    op_return_script = create_op_return_script("4chain")
     tx_output_op_return = TransactionOutput(
         locking_script=op_return_script,
         satoshis=1  # OP_RETURN outputs don't carry value

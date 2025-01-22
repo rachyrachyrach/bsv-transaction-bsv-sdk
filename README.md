@@ -19,6 +19,8 @@ or
 
 ```
 python3 -m pip install bsv-sdk
+
+python3 -m pip install yenpoint_1satordinals
 ```
 
 Add your private key locally using the export command. 

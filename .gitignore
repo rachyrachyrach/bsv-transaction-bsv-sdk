@@ -1,5 +1,7 @@
 #no virtual environment
 .venv
+PRIVATE_KEY
+TARGET_ADDRESS
 *__pycache__*
 db.sqlite3
 *DS_Store*
