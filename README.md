@@ -49,11 +49,19 @@ My unspent transactions, the utxos. [example](https://api.whatsonchain.com/v1/bs
 
 
 ![utxos example](/docs/utxos_example.jpg)
+
+
+***
+`op_return_test.py` is to add a message in the op_return
+
+`1sat_ordinal.py` is to inscribe an image on chain.
+
+***
+
 ***
 Other: 
 non-asyinc.py is a work in progress to not use async. 
-
-op_return_test.py is a work in progress to add script into the op_return. 
+ 
 ***
 
 
