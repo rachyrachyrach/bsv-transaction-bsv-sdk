@@ -43,7 +43,7 @@ async def create_and_broadcast_ordinal():
     )
     
     # Read and create ordinal
-    with open('test_image.jpg', 'rb') as f:
+    with open('mollymatch_logo.jpg', 'rb') as f:
         image_data = f.read()
         logger.info(f"Image size: {len(image_data)} bytes")
     
