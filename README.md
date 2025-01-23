@@ -10,7 +10,7 @@ Used [BSV Blockchain.org Python Guide](https://docs.bsvblockchain.org/guides/sdk
 ### Setup
 ***
 
-Python3 3.9.6 You can install the [bsv-sdk](https://austecon.github.io/bitsv/guide/keys.html) library or use the requirements.txt file provided.
+Python3 3.9.6 You can install the [bsv-sdk](https://docs.bsvblockchain.org/guides/sdks/py) library or use the requirements.txt file provided.
 
 ```
 pip install -r requirements.txt
